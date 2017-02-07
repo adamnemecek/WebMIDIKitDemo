@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_34"
+               BlueprintIdentifier = "OBJ_35"
                BuildableName = "AXMIDI.framework"
                BlueprintName = "AXMIDI"
                ReferencedContainer = "container:WebMIDIKitDemo.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_42"
+               BlueprintIdentifier = "OBJ_43"
                BuildableName = "WebMIDIKit.framework"
                BlueprintName = "WebMIDIKit"
                ReferencedContainer = "container:WebMIDIKitDemo.xcodeproj">
@@ -42,7 +42,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_62"
+               BlueprintIdentifier = "OBJ_64"
                BuildableName = "WebMIDIKitDemo"
                BlueprintName = "WebMIDIKitDemo"
                ReferencedContainer = "container:WebMIDIKitDemo.xcodeproj">
@@ -73,7 +73,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_34"
+            BlueprintIdentifier = "OBJ_35"
             BuildableName = "AXMIDI.framework"
             BlueprintName = "AXMIDI"
             ReferencedContainer = "container:WebMIDIKitDemo.xcodeproj">

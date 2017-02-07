@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3780FDF01E4A620E001FD1CB"
+               BlueprintIdentifier = "OBJ_64"
                BuildableName = "WebMIDIKitDemo"
                BlueprintName = "WebMIDIKitDemo"
                ReferencedContainer = "container:WebMIDIKitDemo.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3780FDF01E4A620E001FD1CB"
+            BlueprintIdentifier = "OBJ_64"
             BuildableName = "WebMIDIKitDemo"
             BlueprintName = "WebMIDIKitDemo"
             ReferencedContainer = "container:WebMIDIKitDemo.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3780FDF01E4A620E001FD1CB"
+            BlueprintIdentifier = "OBJ_64"
             BuildableName = "WebMIDIKitDemo"
             BlueprintName = "WebMIDIKitDemo"
             ReferencedContainer = "container:WebMIDIKitDemo.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3780FDF01E4A620E001FD1CB"
+            BlueprintIdentifier = "OBJ_64"
             BuildableName = "WebMIDIKitDemo"
             BlueprintName = "WebMIDIKitDemo"
             ReferencedContainer = "container:WebMIDIKitDemo.xcodeproj">
