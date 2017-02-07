@@ -7,6 +7,7 @@
 //
 
 import WebMIDIKit
+import Foundation
 
 let midi = MIDIAccess()
 
@@ -21,7 +22,11 @@ input?.onMIDIMessage = { packet in
   print("received \(packet)")
 }
 
-
+/// send a second long C8 to the port
 output?.send(noteOn)
        .send(noteOff, offset: 1000)
+/// we have to sleep because otherwise the program would exit before all
+/// midi notes were played
+
+sleep(20)
 
