@@ -16,17 +16,17 @@ let noteOff: [UInt8] = [0x80, 0x40, 0]
 
 let input = midi.inputs.prompt()
 
-let output = input.flatMap { midi.output(for: $0) }
+//let output = input.flatMap { midi.output(for: $0) }
 
 input?.onMIDIMessage = { packet in
   print("received \(packet)")
 }
 
 /// send a second long C8 to the port
-output?.send(noteOn)
-       .send(noteOff, offset: 1000)
+//output?.send(noteOn)
+//       .send(noteOff, offset: 1000)
 /// we have to sleep because otherwise the program would exit before all
 /// midi notes were played
 
-sleep(20)
+sleep(100)
 

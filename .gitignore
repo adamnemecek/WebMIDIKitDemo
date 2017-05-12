@@ -1,3 +1,11 @@
+.build
+/.previous-build
+xcuserdata
 .DS_Store
-/.build
-/Packages
+*~
+\#*
+.\#*
+*.xcscmblueprint
+/default.profraw
+*.xcodeproj
+Package.pins

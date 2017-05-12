@@ -1,5 +1,0 @@
-module AXMIDI {
-    umbrella header "/Users/adamnemecek/Code/hypersphere/_internal.projects1/_packages/WebMIDIKitDemo/Packages/WebMIDIKit-1.0.2/Sources/AXMIDI/include/AXMIDI.h"
-    link "AXMIDI"
-    export *
-}
